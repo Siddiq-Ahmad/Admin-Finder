@@ -28,7 +28,7 @@
 
 ## Usage
 ```
-author: alienwhatever
+author: Siddiq Ahmad
 credit github.com/bdblackhat for list.txt
 orginal-source-of-list.txt -  https://github.com/bdblackhat/admin-panel-finder/blob/master/link.txt
 
